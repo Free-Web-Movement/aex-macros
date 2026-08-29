@@ -4,6 +4,9 @@ version = "0.1.1"
 edition = "2024"
 description = "Procedural macros for aex: attribute-based route declarations."
 license = "GPL-3.0-or-later"
+repository = "https://github.com/Free-Web-Movement/aex-macros"
+homepage = "https://github.com/Free-Web-Movement/aex-macros"
+documentation = "https://docs.rs/aex-macros"
 
 [lib]
 proc-macro = true
